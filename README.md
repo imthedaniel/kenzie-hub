@@ -58,6 +58,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 -   [ ] Adição, remoção e exclusão de tecnologias.
 -   [ ] 100% responsivo em resoluções até 4k.
 -   [ ] Cadastro e Login com diversas validações.
+-   [ ] Controle de Autenticação, sendo possível acessar o sistema somente após o login.
+-   [ ] Notificações dinâmicas em toda a aplicação.
 
 ## 🎨 Layout
 
